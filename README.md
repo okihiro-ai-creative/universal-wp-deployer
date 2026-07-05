@@ -1,6 +1,6 @@
 # Universal WP Deployer
 
-Created by OKIHIRO — AI自動化ワークフローを100個以上開発・運用しています。
+Created by OKIHIRO — AI自動化ワークフローを130個以上開発・運用しています。
 
 HTMLファイルをWordPress REST APIで固定ページ・投稿・カスタム投稿タイプへデプロイする汎用スキルです。
 
